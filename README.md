@@ -1,6 +1,6 @@
 ### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Meu nome é Bruno Franco Vilela.
 
-Sou Bacharel em Sistemas de Informação na UEMG - Universidade do Estado de Minas Gerais e estou em busca de mais conhecimentos para crescimento tanto pessoal quanto profissional.
+Sou Bacharel em Sistemas de Informação na UEMG - Universidade do Estado de Minas Gerais.
 
 <div align="center">
   <a href="https://github.com/brunofvilela">
